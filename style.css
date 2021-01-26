@@ -1,0 +1,140 @@
+
+.top-body{
+    padding: 10px 80px ;
+}
+.mid-body{
+    padding: 10px 80px ;
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+.mypic1{
+    width: 80%;  
+}
+
+.mypic2{
+    width: 80%;
+    padding-top: 50px;
+}
+
+h1{
+    font-family: Bebas Neue;
+    font-size: 80px;
+    font-weight: 500;
+    color: rgb(54, 57, 88);
+}
+
+span{
+    color: rgb(255, 131, 103);
+}
+.para1{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: -50px;
+    padding-right: 220px;
+    padding-bottom: 30px;
+}
+.hire{
+    background-image: linear-gradient(45deg,  red, orange);
+    padding: 10px 40px;
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    border-radius: 8px;
+    
+}
+h2{
+    font-family: Bebas Neue;
+    font-size: 48px;
+    font-weight: 500;
+    color: rgb(54, 57, 88);
+    padding-top: 50px;
+    
+}
+.para2{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: -20px;
+    padding-right: 220px;
+    padding-bottom: 30px;
+     
+}
+.para3{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: Bebas Neue;
+    font-size: 48px;
+}
+.para3 span{
+
+    color: chocolate;
+}
+#last-body{
+    margin-top: 1000px;
+    background-image: linear-gradient(rgb(230, 229, 229), rgb(230, 229, 229));
+    padding-bottom: 500px;
+    padding-top: 50px;
+}
+
+#box img{
+   width: 100%;
+   height: 100%;
+}
+h3{
+    font-family: Roboto;
+    font-size: 24px;
+    color: darkblue;
+    font-weight: 900;
+}
+#box{
+    width: 20%;
+    height: 200px;
+    margin-top: 2px;
+    margin-left: 90px;
+    margin-right: 1px;
+    float: left;
+    background-color: white;
+    box-shadow: 2px 2px 30px gray;
+    padding-top: 20px;
+    padding-bottom: 180px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+}
+p{
+    font-family: Roboto;
+    font-size: 16px;
+}
+.foot{
+    width: 700px;
+    height: 80px;
+    background-color: blue;
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+    padding: 50px;
+    border-radius: 25px;
+    display: inline-flex;
+    float: left;
+    background-image: url(shapes/Group_33094_1.png);
+}
+.foot h2{
+    color: white;
+    margin-top: -35px;
+    font-family: Bebas Neue;
+    margin-right: 350px;
+}
+
+.bt{
+    background-color: salmon;
+    height: 50px;
+    border-radius: 10px;
+    margin: auto;
+    width: 100px;
+}
